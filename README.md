@@ -1,4 +1,3 @@
-# Chart-Review-Release-Framework
 # Chart Review Copilot — Release Readiness Framework
 
 > **Author:** Bhavana Adarsha, Principal AI PM | IRIS Digi LLC  
